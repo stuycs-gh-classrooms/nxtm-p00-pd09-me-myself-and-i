@@ -31,23 +31,23 @@ What is the formula for your force?
 
 ![image](https://github.com/user-attachments/assets/66bd4c97-de2e-4c31-aaaf-b55f9017e65a)
 
-
-
+Where v1 and v2 are the velocities of the two orbs, m1 and m2 are the masses of the two orbs, x1 and x2 are the centers of the two orbs, angle brackets are the dot product of two vectors, double lines are the magnitude of a vector.
+double
 ### Custom Force
 - What information that is already present in the `Orb` or `OrbNode` classes does this force use?
-  - YOUR ANSWER HERE
+  - Mass, velocity, center
 
 - Does this force require any new constants, if so what are they and what values will you try initially?
-  - YOUR ANSWER HERE
+  - Doesn't require anything else
 
 - Does this force require any new information to be added to the `Orb` class? If so, what is it and what data type will you use?
-  - YOUR ANSWER HERE
+  - Doesn't require any new information to be added.
 
 - Does this force interact with other `Orbs`, or is it applied based on the environment?
-  - YOUR ANSWER HERE
+  - This force interacts with other 'Orbs'
 
 - In order to calculate this force, do you need to perform extra intermediary calculations? If so, what?
-  - YOUR ANSWER HERE
+  - We have to get the magnitude of a vector, which is just dist, and get the dot product, which could be achieved using the in-built dot() function.
 
 --- 
 
