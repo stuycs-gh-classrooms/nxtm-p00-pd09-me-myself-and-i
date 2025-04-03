@@ -27,7 +27,7 @@ All projects will require the following:
 
 #### Custom Force: Collision force
 ### Forumla
-What is the formula for your force? Including descriptions/definitions for the symbols. (You may include a picture of the formula if it is not easily typed.)
+What is the formula for your force?
 ![image](https://github.com/user-attachments/assets/66bd4c97-de2e-4c31-aaaf-b55f9017e65a)
 
 YOUR ANSWER HERE
