@@ -28,9 +28,10 @@ All projects will require the following:
 #### Custom Force: Collision force
 ### Forumla
 What is the formula for your force?
+
 ![image](https://github.com/user-attachments/assets/66bd4c97-de2e-4c31-aaaf-b55f9017e65a)
 
-YOUR ANSWER HERE
+
 
 ### Custom Force
 - What information that is already present in the `Orb` or `OrbNode` classes does this force use?
