@@ -32,7 +32,7 @@ What is the formula for your force?
 ![image](https://github.com/user-attachments/assets/66bd4c97-de2e-4c31-aaaf-b55f9017e65a)
 
 Where v1 and v2 are the velocities of the two orbs, m1 and m2 are the masses of the two orbs, x1 and x2 are the centers of the two orbs, angle brackets are the dot product of two vectors, double lines are the magnitude of a vector.
-double
+
 ### Custom Force
 - What information that is already present in the `Orb` or `OrbNode` classes does this force use?
   - Mass, velocity, center
